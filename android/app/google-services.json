@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687663364401",
+    "project_id": "belajarwebrtc",
+    "storage_bucket": "belajarwebrtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687663364401:android:14b6772406992e782e5810",
+        "android_client_info": {
+          "package_name": "com.belajarwebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687663364401-ojohj74onj2079phnc4etfc8qi557d18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcFHuWdKnVguB14HlHSjDt2SrgXzxf6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687663364401-ojohj74onj2079phnc4etfc8qi557d18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
